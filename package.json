@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@nuxt/ui": "^4.9.0",
-    "@tiptap/core": "^3.27.1",
+    "@tiptap/core": "^3.30.4",
     "@tiptap/extension-bubble-menu": "^3.27.1",
     "@tiptap/extension-code": "^3.27.1",
     "@tiptap/extension-collaboration": "^3.27.1",
